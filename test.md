@@ -1,4 +1,4 @@
-```mermaid
+```flow
 st=>start: Start|past:>http://www.google.com[blank]
 e=>end: End:>http://www.google.com
 op1=>operation: My Operation|past
